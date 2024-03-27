@@ -1,24 +1,16 @@
 source_file = "demo.txt"
 final_file = "result.txt"
 favorite_list = [
-    "广东珠江",
-    "开平综合",
-    "开平生活",
     "CCTV-1",
-    "CCTV-5",
-    "CCTV-5+",
-    "CCTV-13",
-    "广东体育",
-    "广东卫视",
-    "大湾区卫视",
-    "浙江卫视",
-    "湖南卫视",
-    "翡翠台",
+    "CCTV-2",
+    "CCTV-3",
+    "安徽卫视",
+    "河南卫视",
 ]
-favorite_page_num = 6
-default_page_num = 4
+favorite_page_num = 10
+default_page_num = 8
 urls_limit = 15
-response_time_weight = 0.5
-resolution_weight = 0.5
+response_time_weight = 0.6
+resolution_weight = 0.4
 recent_days = 30
-ipv_type = "ipv4"
+ipv_type = "all"
