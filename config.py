@@ -7,10 +7,10 @@ favorite_list = [
     "安徽卫视",
     "河南卫视",
 ]
-favorite_page_num = 10
-default_page_num = 8
+favorite_page_num = 15
+default_page_num = 15
 urls_limit = 15
 response_time_weight = 0.6
 resolution_weight = 0.4
-recent_days = 60
-ipv_type = "all"
+recent_days = 90
+ipv_type = "ipv4"
