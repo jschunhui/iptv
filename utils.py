@@ -121,7 +121,7 @@ async def compareSpeedAndResolution(infoList):
     ]
 
     def extract_resolution(resolution_str):
-        numbers = re.findall(r"[1920,1280]x[1080,720]", resolution_str)
+        numbers = re.findall(r"*", resolution_str)
         if numbers:
             width, height = map(int, numbers[0].split("x"))
             return width * height
