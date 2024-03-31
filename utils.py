@@ -76,7 +76,7 @@ def getUrlInfo(result):
     """
     Get the url, date and resolution
     """
-    m3u8_div = result.find("div", class_="m3u8")
+    m3u8_div = result.find("div", class_="gaxgfi")
     url = m3u8_div.text.strip() if m3u8_div else None
     info_div = m3u8_div.find_next_sibling("div") if m3u8_div else None
     date = resolution = None
