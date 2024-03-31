@@ -1,8 +1,5 @@
 央视频道,#genre#
-CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV-1综合,http://124.67.14.4:8888/udp/239.125.2.66:4120
 CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1综合,http://221.1.210.106:8053/tsfile/live/0001_1.m3u8
 CCTV-1综合,http://113.133.232.82:8008/rtp/239.112.205.59:5140
-CCTV-1综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV-1综合,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV-1综合,http://124.67.14.4:8888/udp/239.125.2.66:4120
