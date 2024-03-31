@@ -80,7 +80,7 @@ class UpdateSource:
                             else []
                         )
                         if not any(
-                            result.find("div", class_="m3u8") for result in results
+                            result.find("div", class_="gaxgfi") for result in results
                         ):
                             break
                         for result in results:
