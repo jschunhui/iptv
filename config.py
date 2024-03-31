@@ -12,5 +12,5 @@ default_page_num = 8
 urls_limit = 15
 response_time_weight = 0.6
 resolution_weight = 0.4
-recent_days = 30
-ipv_type = "ipv4"
+recent_days = 60
+ipv_type = "all"
