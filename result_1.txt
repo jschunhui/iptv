@@ -1,14 +1,14 @@
 央视频道,#genre#
-CCTV-1综合,http://124.67.14.4:8888/udp/239.125.2.66:4120
+CCTV-1综合,http://117.141.149.101:4431/tsfile/live/faacts/1010_1.m3u8
+CCTV-1综合,http://117.141.149.101:9901/tsfile/live/1010_1.m3u8
+CCTV-1综合,http://111.11.98.205:9900/hls/1/index.m3u8
 CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV-1综合,http://112.6.117.141:9901/tsfile/live/0001_1.m3u8
+CCTV-1综合,http://124.67.14.4:8888/udp/239.125.2.66:4120
 CCTV-1综合,http://221.1.210.106:8053/tsfile/live/0001_1.m3u8
 CCTV-1综合,http://113.133.232.82:8008/rtp/239.112.205.59:5140
 CCTV-1综合,http://php.jdshipin.com:8880/bst.php?id=cctv1hd/4000000
 CCTV-1综合,http://222.83.181.3:9901/tsfile/live/1005_1.m3u8
-CCTV-1综合,http://117.141.149.101:4431/tsfile/live/faacts/1010_1.m3u8
-CCTV-1综合,http://117.141.149.101:9901/tsfile/live/1010_1.m3u8
-CCTV-1综合,http://111.11.98.205:9900/hls/1/index.m3u8
+CCTV-1综合,http://112.6.117.141:9901/tsfile/live/0001_1.m3u8
 
 CCTV2,https://epg.pw/stream/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
