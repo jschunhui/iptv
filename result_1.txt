@@ -21,7 +21,6 @@ CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122639
 
 CCTV4,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 
 CCTV5,http://221.219.77.170:4000/rtp/239.3.1.173:8001
 CCTV5,http://114.252.225.231:8000/rtp/239.3.1.173:8001
@@ -32,6 +31,7 @@ CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122639
 CCTV6,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV6,http://221.219.77.170:4000/rtp/239.3.1.174:8001
 CCTV6,http://114.252.225.231:8000/rtp/239.3.1.174:8001
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
