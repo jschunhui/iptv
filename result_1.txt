@@ -43,9 +43,10 @@ CCTV9,http://221.219.77.170:4000/rtp/239.3.1.62:8112
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 
+CCTV13,http://123.117.163.147:18888/rtp/239.3.1.124:8128
+CCTV13,http://221.219.77.170:4000/rtp/239.3.1.124:8128
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV13,http://101.23.216.151:8090/hls/21/index.m3u8
-CCTV13,http://123.117.163.147:18888/rtp/239.3.1.124:8128
 CCTV13,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
