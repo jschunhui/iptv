@@ -61,23 +61,26 @@ CCTV-17,http://61.51.138.93:8888/rtp/239.3.1.151:8144
 
 
 CCTV-1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.8:5540
-CCTV-10,http://nas.tuyuannet.cn:8800/rtp/239.37.0.7:5540
-CCTV-12,http://nas.tuyuannet.cn:8800/rtp/239.37.0.6:5540
-CCTV-14,http://nas.tuyuannet.cn:8800/rtp/239.37.0.5:5540
-CCTV-2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.3:5540
-CCTV-5+,http://nas.tuyuannet.cn:8800/rtp/239.37.0.121:5540
-CCTV-7,http://nas.tuyuannet.cn:8800/rtp/239.37.0.2:5540
-CCTV-9,http://nas.tuyuannet.cn:8800/rtp/239.37.0.1:5540
 CCTV-1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.254:5540
-CCTV-16,http://nas.tuyuannet.cn:8800/rtp/239.37.1.21:5540
-CCTV-16 4K,http://nas.tuyuannet.cn:8800/rtp/239.37.1.22:5540
-CCTV-11,http://nas.tuyuannet.cn:8800/rtp/239.37.0.227:5540
-CCTV-卫视健康HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.229:5540
-CCTV-高尔夫·网球HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
+CCTV-2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.3:5540
 CCTV-3,http://nas.tuyuannet.cn:8800/rtp/239.37.0.231:5540
 CCTV-5,http://nas.tuyuannet.cn:8800/rtp/239.37.0.232:5540
+CCTV-5+,http://nas.tuyuannet.cn:8800/rtp/239.37.0.121:5540
 CCTV-6,http://nas.tuyuannet.cn:8800/rtp/239.37.0.233:5540
+CCTV-7,http://nas.tuyuannet.cn:8800/rtp/239.37.0.2:5540
 CCTV-8,http://nas.tuyuannet.cn:8800/rtp/239.37.0.234:5540
+CCTV-9,http://nas.tuyuannet.cn:8800/rtp/239.37.0.1:5540
+CCTV-10,http://nas.tuyuannet.cn:8800/rtp/239.37.0.7:5540
+CCTV-11,http://nas.tuyuannet.cn:8800/rtp/239.37.0.227:5540
+CCTV-12,http://nas.tuyuannet.cn:8800/rtp/239.37.0.6:5540
+CCTV-14,http://nas.tuyuannet.cn:8800/rtp/239.37.0.5:5540
+CCTV-16,http://nas.tuyuannet.cn:8800/rtp/239.37.1.21:5540
+CCTV-16 4K,http://nas.tuyuannet.cn:8800/rtp/239.37.1.22:5540
+CCTV-卫视健康HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.229:5540
+CCTV-高尔夫·网球HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
+
+
+
 
 卫视频道,#genre#
 东方卫视HD,http://125.34.18.5:8888/rtp/239.3.1.136:8032
@@ -96,46 +99,32 @@ CCTV-8,http://nas.tuyuannet.cn:8800/rtp/239.37.0.234:5540
 湖北卫视HD,http://125.34.18.5:8888/rtp/239.3.1.138:8044
 贵州卫视HD,http://125.34.18.5:8888/rtp/239.3.1.149:8076
 江西卫视HD,http://125.34.18.5:8888/rtp/239.3.1.123:8164
-陕西卫视,http://125.34.18.5:8888/rtp/239.3.1.41:8140
-山西卫视,http://125.34.18.5:8888/rtp/239.3.1.42:8172
-广西卫视,http://125.34.18.5:8888/rtp/239.3.1.39:8300
-宁夏卫视,http://125.34.18.5:8888/rtp/239.3.1.46:8124
-新疆卫视,http://125.34.18.5:8888/rtp/239.3.1.48:8160
-内蒙古卫视,http://125.34.18.5:8888/rtp/239.3.1.43:8176
-云南卫视,http://125.34.18.5:8888/rtp/239.3.1.26:8108
-兵团卫视,http://125.34.18.5:8888/rtp/239.3.1.144:4120
-厦门卫视,http://125.34.18.5:8888/rtp/239.3.1.143:4120
 东南卫视HD,http://125.34.18.5:8888/rtp/239.3.1.156:8148
-南方卫视,http://125.34.18.5:8888/rtp/239.3.1.161:8001
-海南卫视,http://125.34.18.5:8888/rtp/239.3.1.45:8304
 广东卫视HD,http://125.34.18.5:8888/rtp/239.3.1.142:8048
 深圳卫视HD,http://125.34.18.5:8888/rtp/239.3.1.134:8020
-甘肃卫视,http://125.34.18.5:8888/rtp/239.3.1.49:8188
-青海卫视,http://125.34.18.5:8888/rtp/239.3.1.44:8184
-西藏卫视,http://125.34.18.5:8888/rtp/239.3.1.47:8164
-三沙卫视,http://125.34.18.5:8888/rtp/239.3.1.155:4120
 
-北京卫视HD,http://www.191919.xyz:8888/udp/238.1.78.162:7168
-天津卫视HD,http://www.191919.xyz:8888/udp/238.1.78.20:6088
-重庆卫视HD,http://www.191919.xyz:8888/udp/238.1.78.31:6176
+
 东方卫视HD,http://www.191919.xyz:8888/udp/238.1.78.163:7176
 安徽卫视HD,http://www.191919.xyz:8888/udp/238.1.78.150:7072
-江苏卫视HD,http://www.191919.xyz:8888/udp/238.1.78.165:7192
+湖南卫视HD,http://www.191919.xyz:8888/udp/238.1.78.160:7152
 浙江卫视HD,http://www.191919.xyz:8888/udp/238.1.78.164:7184
+江苏卫视HD,http://www.191919.xyz:8888/udp/238.1.78.165:7192
+北京卫视HD,http://www.191919.xyz:8888/udp/238.1.78.162:7168
+天津卫视HD,http://www.191919.xyz:8888/udp/238.1.78.20:6088
+河北卫视HD,http://www.191919.xyz:8888/udp/238.1.78.245:7832
+重庆卫视HD,http://www.191919.xyz:8888/udp/238.1.78.31:6176
+山东卫视HD,http://www.191919.xyz:8888/udp/238.1.78.169:7224
 黑龙江卫视HD,http://www.191919.xyz:8888/udp/238.1.78.159:7144
 吉林卫视HD,http://www.191919.xyz:8888/udp/238.1.79.48:4496
 辽宁卫视HD,http://www.191919.xyz:8888/udp/238.1.78.21:6096
 东南卫视HD,http://www.191919.xyz:8888/udp/238.1.78.22:6104
-四川卫视HD,http://www.191919.xyz:8888/udp/238.1.78.30:6168
+湖北卫视HD,http://www.191919.xyz:8888/udp/238.1.78.168:7216
+贵州卫视HD,http://www.191919.xyz:8888/udp/238.1.78.244:7824
 江西卫视HD,http://www.191919.xyz:8888/udp/238.1.78.26:6136
+四川卫视HD,http://www.191919.xyz:8888/udp/238.1.78.30:6168
 广东卫视HD,http://www.191919.xyz:8888/udp/238.1.78.161:7160
 海南卫视HD,http://www.191919.xyz:8888/udp/238.1.79.49:4504
-湖北卫视HD,http://www.191919.xyz:8888/udp/238.1.78.168:7216
-湖南卫视HD,http://www.191919.xyz:8888/udp/238.1.78.160:7152
-贵州卫视HD,http://www.191919.xyz:8888/udp/238.1.78.244:7824
-河北卫视HD,http://www.191919.xyz:8888/udp/238.1.78.245:7832
 河南卫视HD,http://www.191919.xyz:8888/udp/238.1.79.65:4632
-山东卫视HD,http://www.191919.xyz:8888/udp/238.1.78.169:7224
 甘肃卫视HD,http://www.191919.xyz:8888/udp/238.1.79.36:4400
 
 安徽卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.159:5540
@@ -152,16 +141,17 @@ CCTV-8,http://nas.tuyuannet.cn:8800/rtp/239.37.0.234:5540
 吉林卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.111:5540
 江苏卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.112:5540
 江西卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.156:5540
-金鹰纪实HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
 辽宁卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.160:5540
 山东卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.15:5540
-上海纪实HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.152:5540
 深圳卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.14:5540
 四川卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.151:5540
-天津HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.4:5540
+天津卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.4:5540
 浙江卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.153:5540
 重庆卫视HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.158:5540
+
 BTV纪实HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.162:5540
+金鹰纪实HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.161:5540
+上海纪实HD,http://nas.tuyuannet.cn:8800/rtp/239.37.0.152:5540
 
 少儿频道,#genre#
 BRTV卡酷少儿HD,http://125.34.18.5:8888/rtp/239.3.1.189:8000
