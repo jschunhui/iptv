@@ -60,6 +60,26 @@ CCTV17HD,http://113.218.137.78:9999/udp/239.76.245.238:1234
 CCTV16 4K,http://113.218.137.78:9999/udp/239.76.246.214:1234
 CCTV16 4k,http://113.218.137.78:9999/udp/239.76.246.224:1234
 
+
+CCTV1HD,http://www.liruixiang.cc:9000/rtp/239.3.1.129:8008
+CCTV2HD,http://www.liruixiang.cc:9000/rtp/239.3.1.60:8084
+CCTV3HD,http://www.liruixiang.cc:9000/rtp/239.3.1.172:8001
+CCTV4HD,http://www.liruixiang.cc:9000/rtp/239.3.1.105:8092
+CCTV5HD,http://www.liruixiang.cc:9000/rtp/239.3.1.173:8001
+CCTV5+HD,http://www.liruixiang.cc:9000/rtp/239.3.1.130:8004
+CCTV6HD,http://www.liruixiang.cc:9000/rtp/239.3.1.174:8001
+CCTV7HD,http://www.liruixiang.cc:9000/rtp/239.3.1.61:8104
+CCTV8HD,http://www.liruixiang.cc:9000/rtp/239.3.1.175:8001
+CCTV9HD,http://www.liruixiang.cc:9000/rtp/239.3.1.62:8112
+CCTV10HD,http://www.liruixiang.cc:9000/rtp/239.3.1.63:8116
+CCTV11HD,http://www.liruixiang.cc:9000/rtp/239.3.1.152:8120
+CCTV12HD,http://www.liruixiang.cc:9000/rtp/239.3.1.64:8124
+CCTV13HD,http://www.liruixiang.cc:9000/rtp/239.3.1.124:8128
+CCTV14HD,http://www.liruixiang.cc:9000/rtp/239.3.1.65:8132
+CCTV15HD,http://www.liruixiang.cc:9000/rtp/239.3.1.153:8136
+CCTV16 4k,http://www.liruixiang.cc:9000/rtp/239.3.1.184:8001
+CCTV17HD,http://www.liruixiang.cc:9000/rtp/239.3.1.151:8144
+
 卫视频道,#genre#
 东方卫视HD,http://110.185.39.195:2020/udp/239.93.0.123:5140
 安徽卫视HD,http://110.185.39.195:2020/udp/239.93.1.106:5140
@@ -130,8 +150,28 @@ CCTV16 4k,http://113.218.137.78:9999/udp/239.76.246.224:1234
 四川卫视HD,http://113.218.137.78:9999/udp/239.76.246.91:1234
 重庆卫视HD,http://113.218.137.78:9999/udp/239.76.246.92:1234
 甘肃卫视HD,http://113.218.137.78:9999/udp/239.76.246.94:1234
-中国教育1HD,http://113.218.137.78:9999/udp/239.76.245.192:1234
 
+湖南卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.132:8012
+东方卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.136:8032
+浙江卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.137:8036
+江苏卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.135:8028
+深圳卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.134:8020
+广东卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.142:8048
+安徽卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.211:8064
+天津卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.141:1234
+重庆卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.122:8160
+山东卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.209:8052
+黑龙江卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.133:8016
+河北卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.148:8072
+辽宁卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.210:8056
+湖北卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.138:8044
+吉林卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.240:8172
+贵州卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.149:8076
+东南卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.156:8148
+江西卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.123:8164
+北京卫视HD,http://www.liruixiang.cc:9000/rtp/239.3.1.241:8000
+
+中国教育1HD,http://113.218.137.78:9999/udp/239.76.245.192:1234
 凤凰资讯HD,http://113.218.137.78:9999/udp/239.76.246.8:1234
 凤凰中文HD,http://113.218.137.78:9999/udp/239.76.246.7:1234
 
@@ -162,6 +202,10 @@ CHC动作电影,http://113.218.137.78:9999/udp/239.76.245.243:1234
 CHC高清电影,http://113.218.137.78:9999/udp/239.76.245.242:1234
 CHC家庭影院,http://113.218.137.78:9999/udp/239.76.245.241:1234
 
+淘电影HD,http://www.liruixiang.cc:9000/rtp/239.3.1.250:8001
+每日影院HD,http://www.liruixiang.cc:9000/# rtp/239.3.1.111:8001
+
+
 电视剧频道,#genre#
 热播剧场,http://110.185.39.195:2020/udp/239.93.0.56:9020
 热门剧场,http://110.185.39.195:2020/udp/239.93.0.140:5140
@@ -189,6 +233,10 @@ IPTV电竞,http://113.218.137.78:9999/udp/239.76.245.136:1234
 
 欢笑剧场4K,http://113.218.137.78:9999/udp/239.76.246.130:1234
 都市剧场HD,http://113.218.137.78:9999/udp/239.76.246.215:1234
+
+淘剧场HD,http://www.liruixiang.cc:9000/rtp/239.3.1.95:8001
+幸福剧场HD,http://www.liruixiang.cc:9000/# rtp/239.3.1.112:8001
+
 
 少儿频道,#genre#
 熊猫少儿HD,http://110.185.39.195:2020/udp/239.93.1.189:5140
@@ -254,6 +302,10 @@ IPTV电竞,http://113.218.137.78:9999/udp/239.76.245.136:1234
 睛彩羽毛球HD,http://123.113.11.89:4022/rtp/239.3.1.127:8001
 睛彩广场舞HD,http://123.113.11.89:4022/rtp/239.3.1.128:8001
 
+淘娱乐HD,http://www.liruixiang.cc:9000/rtp/239.3.1.100:8001
+幸福娱乐HD,http://www.liruixiang.cc:9000/# rtp/239.3.1.113:8001
+淘BabyHD,http://www.liruixiang.cc:9000/rtp/239.3.1.238:8001
+萌宠TVHD,http://www.liruixiang.cc:9000/rtp/239.3.1.102:8001
 
 
 兴趣频道,#genre#
@@ -261,7 +313,6 @@ IPTV电竞,http://113.218.137.78:9999/udp/239.76.245.136:1234
 茶频道HD,http://110.185.39.195:2020/udp/239.93.0.114:5140
 
 茶频道HD,http://123.113.11.89:4022/rtp/239.3.1.165:8001
-体育赛事HD,http://123.113.11.89:4022/rtp/239.3.1.157:8176
 淘精彩HD,http://123.113.11.89:4022/rtp/239.3.1.178:8001
 快乐垂钓HD,http://123.113.11.89:4022/rtp/239.3.1.164:8001
 大健康HD,http://123.113.11.89:4022/rtp/239.3.1.251:8001
@@ -277,7 +328,18 @@ IPTV电竞,http://113.218.137.78:9999/udp/239.76.245.136:1234
 上海纪实HD,http://110.185.39.195:2020/udp/239.93.1.137:5140
 金鹰纪实HD,http://110.185.39.195:2020/udp/239.93.0.130:5140
 求索频道HD,http://110.185.39.195:2020/udp/239.93.42.24:5140
-IPTV综艺纪实HD,http://58.45.109.39:6666/udp/239.76.254.111:9000
+
+
+睛彩竞技HD,http://www.liruixiang.cc:9000/rtp/239.3.1.125:8001
+睛彩篮球HD,http://www.liruixiang.cc:9000/rtp/239.3.1.126:8001
+睛彩羽毛球HD,http://www.liruixiang.cc:9000/rtp/239.3.1.127:8001
+睛彩广场舞HD,http://www.liruixiang.cc:9000/rtp/239.3.1.128:8001
+茶频道HD,http://www.liruixiang.cc:9000/rtp/239.3.1.165:8001
+体育赛事HD,http://www.liruixiang.cc:9000/rtp/239.3.1.157:8176
+淘精彩HD,http://www.liruixiang.cc:9000/rtp/239.3.1.178:8001
+快乐垂钓HD,http://www.liruixiang.cc:9000/rtp/239.3.1.164:8001
+大健康HD,http://www.liruixiang.cc:9000/rtp/239.3.1.251:8001
+
 
 纪实人文HD,http://123.113.11.89:4022/rtp/239.3.1.212:8060
 金鹰纪实HD,http://123.113.11.89:4022/rtp/239.3.1.58:8156
@@ -288,11 +350,10 @@ BRTV财经HD,http://123.113.11.89:4022/rtp/239.3.1.116:8000
 BRTV生活HD,http://123.113.11.89:4022/rtp/239.3.1.117:8000
 BRTV青年HD,http://123.113.11.89:4022/rtp/239.3.1.118:8000
 
-
-
 金鹰纪实HD,http://113.218.137.78:9999/udp/239.76.245.122:1234
 金鹰纪实HD,http://113.218.137.78:9999/udp/239.76.246.110:1234
 健康电视HD,http://113.218.137.78:9999/udp/239.76.246.127:1234
+IPTV综艺纪实HD,http://58.45.109.39:6666/udp/239.76.254.111:9000
 
 戏曲频道,#genre#
 河南梨园HD,http://113.218.137.78:9999/udp/239.76.245.179:1234
