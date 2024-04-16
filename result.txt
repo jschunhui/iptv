@@ -164,9 +164,6 @@ ELEVEN体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df927
 ELEVEN体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 明珠台,http://r.jdshipin.com/ZQ4kN
 星河台,http://113.117.74.12:8081/hls/135/index.m3u8
-凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰中文,http://pi.0472.org/tv/cbn.php?id=xfjcHD
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -174,14 +171,5 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS欢乐,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 
