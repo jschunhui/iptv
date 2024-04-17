@@ -58,6 +58,7 @@ CCTV-15,http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
 CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV-16,http://221.2.36.34:8888/newlive/live/hls/18/live.m3u8
 CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 CCTV-17,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
 CCTV-17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
