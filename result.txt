@@ -26,10 +26,8 @@ CCTV-5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225
 CCTV-6,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV-6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV-7,http://221.2.36.34:8888/newlive/live/hls/9/live.m3u8
-CCTV-7,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
-CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV-7,https://cntv.lat/tv/live.php?auth=231110&id=cctv7
+CCTV-7,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 CCTV-8,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
 CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
