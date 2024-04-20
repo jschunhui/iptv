@@ -1,7 +1,3 @@
-Name: CCTV-8, URL: https://cntv.lat/tv/live.php?auth=231110&id=cctv8, Date: 09-19-2023, Resolution: None, Response Time: 407ms
-Name: CCTV-8, URL: http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8, Date: 11-12-2023, Resolution: None, Response Time: 563ms
-Name: 江苏卫视, URL: http://115.149.139.141:10001/tsfile/live/1026_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 487ms
-Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 546ms
-Name: 江苏卫视, URL: https://live.v1.mk/api/ghyx.php?id=JiangSuHD_6000, Date: 03-21-2023, Resolution: None, Response Time: 1302ms
-Name: 江苏卫视, URL: https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1335ms
-Name: 陕西卫视, URL: http://222.240.82.92:9901/tsfile/live/0136_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 547ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 493ms
+Name: 安徽卫视, URL: https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000, Date: 03-21-2023, Resolution: None, Response Time: 1456ms
+Name: 安徽卫视, URL: https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1474ms
